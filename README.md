@@ -1,5 +1,4 @@
-Digit-recognition
-Handwritten Digit Recognition
+**Handwritten Digit Recognition**
 This repository hosts code for a on recognizing single digits from handwritten images. The goal is to accurately predict the digit represented in each image within the test set.
 
 Goal: Participants are tasked with developing models capable of correctly identifying the digits (0-9) present in handwritten images. The objective is to predict the correct label for each image in the test dataset.
